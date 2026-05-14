@@ -1,12 +1,12 @@
 module github.com/joeycumines/ilogrus
 
-go 1.27.0
+go 1.26.2
 
 require (
 	github.com/joeycumines/logiface v0.5.0
 	github.com/joeycumines/logiface-testsuite v0.0.0-20260429212851-bc3fc9711265
-	github.com/sirupsen/logrus v1.10.1
-	golang.org/x/exp v0.0.0-20260820142414-ca536658362e
+	github.com/sirupsen/logrus v1.9.4
+	golang.org/x/exp v0.0.0-20260410095643-746e56fc9e2f
 )
 
 require (
